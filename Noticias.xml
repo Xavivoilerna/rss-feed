@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>Noticias de Tecnología 2025</title>
+        <link>https://github.com/Xavivoilerna/rss-feed</link>
+        <description>Las noticias más relevantes del mundo tecnológico.</description>
+        <language>es</language>
+        <pubDate>Sat, 01 Feb 2025 13:50:00 EST</pubDate>
+        <lastBuildDate>Tue, 04 Feb 2025 09:20:00 EST</lastBuildDate>
+ 
+        <item>
+            <title>La llegada de Deepseek tiene un peligro inesperado</title>
+            <link>https://cincodias.elpais.com/smartlife/lifestyle/2025-02-04/llegada-deepseek-peligro-estafas-malware.html</link>
+            <description>DeepSeek, un nuevo modelo de inteligencia artificial desarrollado por una startup china, se ha convertido en el centro de atención de casi todos. Esto, como suele ser habitual, también ocurre con los ciberdelincuentes que ven en su éxito una oportunidad para lanzar ataques y fraudes en línea.</description>
+            <pubDate>Wed, 15 Jan 2025 13:40:00 EST</pubDate>
+            <guid>https://cincodias.elpais.com/smartlife/lifestyle/2025-02-04/llegada-deepseek-peligro-estafas-malware.html</guid>
+            <category>Inteligencia artificial</category>
+        </item>
+ 
+        <item>
+            <title>La Unión Europea aprueba la Ley de Inteligencia Artificial</title>
+            <link>https://digital-strategy.ec.europa.eu/es/policies/regulatory-framework-ai#:~:text=La%20Ley%20de%20IA%20%5BReglamento,una%20IA%20fiable%20en%20Europa.</link>
+            <description>Esta ley histórica regulará el uso de la IA en diversos sectores, desde la sanidad hasta el transporte, con el objetivo de garantizar la seguridad y los derechos de los ciudadanos. </description>
+            <pubDate>Fri, 10 Jan 2025 16:30:00 EST</pubDate>
+            <guid>https://digital-strategy.ec.europa.eu/es/policies/regulatory-framework-ai#:~:text=La%20Ley%20de%20IA%20%5BReglamento,una%20IA%20fiable%20en%20Europa.</guid>
+            <category>Inteligencia artificial</category>
+        </item>
+
+
+        <item>
+            <title>Avanza la investigación en computación cuántica</title>
+            <link>https://elpais.com/tecnologia/2023-06-14/una-investigacion-avanza-hacia-la-supremacia-cuantica-con-resultados-imposibles-en-la-computacion-clasica.html</link>
+            <description>Científicos han logrado un nuevo hito en la computación cuántica, creando un procesador de 64 cúbicos que supera a los ordenadores clásicos en ciertas tareas. </description>
+            <pubDate>Wed, 8 Jan 2025 22:20:00 EST</pubDate>
+            <guid>https://elpais.com/tecnologia/2023-06-14/una-investigacion-avanza-hacia-la-supremacia-cuantica-con-resultados-imposibles-en-la-computacion-clasica.html</guid>
+            <category>Emprendimiento</category>
+        </item>
+    </channel>
+</rss>
+
